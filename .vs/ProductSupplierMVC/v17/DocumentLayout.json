@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\migrations\\20261115131002_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:migrations\\20261115131002_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\productsuppliermvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:productsuppliermvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|c:\\users\\diepy\\onedrive\\desktop\\mvc_repos\\productsuppliermvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E65A66-17F2-4AA6-AE5E-47BE3C2B855D}|ProductSupplierMVC.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261115131002_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Migrations\\20261115131002_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261115131002_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Migrations\\20261115131002_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20261115131002_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T13:12:38.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-15T13:01:28.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-15T13:00:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-15T12:59:40.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-15T12:59:23.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T12:58:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T12:56:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T12:56:22.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-15T12:53:38.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T12:54:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductSupplierMVC",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\ProductSupplierMVC.csproj",
+              "RelativeDocumentMoniker": "ProductSupplierMVC.csproj",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\ProductSupplierMVC.csproj",
+              "RelativeToolTip": "ProductSupplierMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-15T12:53:24.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvxYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T12:35:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\diepy\\OneDrive\\Desktop\\MVC_Repos\\ProductSupplierMVC\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T12:34:59.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

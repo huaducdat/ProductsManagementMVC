@@ -1,0 +1,54 @@
+﻿@model ProductSupplierMVC.Models.Product
+
+@{
+    ViewData["Title"] = "Xóa sản phẩm";
+}
+
+<h2>Xác nhận xóa sản phẩm</h2>
+
+<div class="alert alert-danger">
+    Bạn có chắc chắn muốn xóa sản phẩm này không?
+</div>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Tên sản phẩm</th>
+        <td>@Model.Name</td>
+    </tr>
+
+    <tr>
+        <th>Giá</th>
+        <td>@Model.Price.ToString("N2")</td>
+    </tr>
+
+    <tr>
+        <th>Số lượng</th>
+        <td>@Model.Quantity</td>
+    </tr>
+
+    <tr>
+        <th>Danh mục</th>
+        <td>@(Model.Category ?? "Không có")</td>
+    </tr>
+
+    <tr>
+        <th>Nhà cung cấp</th>
+        <td>@(Model.Supplier?.Name ?? "Chưa xác định")</td>
+    </tr>
+</table>
+
+<form asp-action="Delete"
+      asp-route-id="@Model.Id"
+      method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">
+        Xác nhận xóa
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Hủy
+    </a>
+
+</form>
